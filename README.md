@@ -14,7 +14,8 @@ Since I had the original file from the wiki and archive sitting on my hard drive
 
 This repository is an updated and repaired continuation of the original B3313 navigator. 
 
-* **The Original Work:** This tool was originally developed by an anonymous creator. 
+* **The Original Work:** This tool was originally developed by an anonymous creator.
+  👉 [Original Files](https://github.com/creeper3010/b3313-Navigator-Fork/tree/Original-Internet-Archive-files)
 * **The Archive Source:** The original source script was preserved and can be referenced via the historical backup hosted on the Internet Archive:  
   👉 [Internet Archive - B3313 Navigator Item Record](https://archive.org/details/b3313-navigator)
 * **Wiki Reference:** The script was historically recognized and linked directly under the official wiki's **Enhance Your Gameplay** section:  
