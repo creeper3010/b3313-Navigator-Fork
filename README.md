@@ -21,8 +21,7 @@ This repository is an updated and repaired continuation of the original B3313 na
   👉 [Official B3313 Wiki - Enhance Your Gameplay](https://miraheze.org)
 
 * **What's New in this Version:** 
-  * Updated the web scraper to dynamically read the current **Official B3313 Miraheze Wiki** database layout instead of the deprecated Fandom structure.
-  * Fixed a fundamental `dijkstar` math layout routing error that previously resulted in a permanent "Unable to find path" or `NoneType` script crash.
+  * Fixed a fundamental `dijkstar` math layout routing error that previously resulted in a permanent "Unable to find path".
   * Reversed the pathfinder algorithm logic so instructions are presented **forward/chronologically** (from the player's walking perspective) rather than backwards.
   * Implemented an inline, real-time terminal progress bar for the initial database building process.
 
