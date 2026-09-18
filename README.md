@@ -14,15 +14,15 @@ Since I had the original file from the wiki and archive sitting on my hard drive
 
 This repository is an updated and repaired continuation of the original B3313 navigator. 
 
-* **The Original Work:** This tool was originally developed by an anonymous creator. 
+* **The Original Work:** This tool was originally developed by an anonymous creator.
+  👉 [Original Files](https://github.com/creeper3010/b3313-Navigator-Fork/tree/Original-Internet-Archive-files)
 * **The Archive Source:** The original source script was preserved and can be referenced via the historical backup hosted on the Internet Archive:  
   👉 [Internet Archive - B3313 Navigator Item Record](https://archive.org/details/b3313-navigator)
 * **Wiki Reference:** The script was historically recognized and linked directly under the official wiki's **Enhance Your Gameplay** section:  
   👉 [Official B3313 Wiki - Enhance Your Gameplay](https://miraheze.org)
 
 * **What's New in this Version:** 
-  * Updated the web scraper to dynamically read the current **Official B3313 Miraheze Wiki** database layout instead of the deprecated Fandom structure.
-  * Fixed a fundamental `dijkstar` math layout routing error that previously resulted in a permanent "Unable to find path" or `NoneType` script crash.
+  * Fixed a fundamental `dijkstar` math layout routing error that previously resulted in a permanent "Unable to find path".
   * Reversed the pathfinder algorithm logic so instructions are presented **forward/chronologically** (from the player's walking perspective) rather than backwards.
   * Implemented an inline, real-time terminal progress bar for the initial database building process.
 
