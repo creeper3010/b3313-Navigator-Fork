@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <identifier>b3313-navigator</identifier>
+  <mediatype>texts</mediatype>
+  <collection>opensource</collection>
+  <creator>Hiax36</creator>
+  <date>2025-06-19</date>
+  <description>&lt;div&gt;A Python script that generates a path between areas for the SM64 ROM Hack B3313, using the official wiki (b3313.info) as a base. The github for it was seemingly taken down for unknown reasons.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;NOTE: After generating a map, you may need to restart the script with Ctrl + C, then answering with n when prompted to generate the map.&lt;/div&gt;&lt;div&gt;NOTE 2: Alternate names for areas seem to not work.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;The script requires some Python modules, which are:&lt;br /&gt;networkx&lt;br /&gt;nx&lt;br /&gt;regex&lt;br /&gt;pylablib&lt;br /&gt;bs4&lt;br /&gt;requests&lt;br /&gt;dijkstar&lt;br /&gt;random&lt;br /&gt;pathlib&lt;/div&gt;</description>
+  <scanner>Internet Archive HTML5 Uploader 1.7.0</scanner>
+  <subject>b3313</subject>
+  <title>B3313 Navigator Script</title>
+  <uploader>xrompre@gmail.com</uploader>
+  <publicdate>2025-07-26 16:55:14</publicdate>
+  <addeddate>2025-07-26 16:55:14</addeddate>
+  <curation>[curator]validator@archive.org[/curator][date]20250726170045[/date][comment]checked for malware[/comment]</curation>
+  <identifier-access>http://archive.org/details/b3313-navigator</identifier-access>
+  <identifier-ark>ark:/13960/s2xsfs9cz83</identifier-ark>
+<filesxml>Fri Apr 3 7:33:52 UTC 2026</filesxml></metadata>

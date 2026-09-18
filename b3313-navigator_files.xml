@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Nav.py" source="original">
+    <mtime>1753548896</mtime>
+    <size>8033</size>
+    <md5>a4f36863027324180326f89b5377175d</md5>
+    <crc32>fa7a64e7</crc32>
+    <sha1>d6ce91fd58be2df640014f5c90686d7d2476a01e</sha1>
+    <format>Unknown</format>
+    <viruscheck>1753549245</viruscheck>
+  </file>
+  <file name="b3313-navigator_archive.torrent" source="metadata">
+    <btih>dad28de1c953aab7c6ac261e240d94da73bba088</btih>
+    <mtime>1775201634</mtime>
+    <size>1665</size>
+    <md5>40e06e3861cbc7ff25bd45a1746a2093</md5>
+    <crc32>e8980b53</crc32>
+    <sha1>0ea8863b8d7ed56677cf5cd33650a593aa4da7a6</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="b3313-navigator_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>96097d8f3235c1eac27625e2951a0e0b</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="b3313-navigator_meta.sqlite" source="original">
+    <mtime>1753548927</mtime>
+    <size>20480</size>
+    <md5>2766db9efdc234357bfb95cc18b1bc4d</md5>
+    <crc32>d0d0deba</crc32>
+    <sha1>439ac56d35c798167843eb0b338be7f9965e7735</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="b3313-navigator_meta.xml" source="original">
+    <mtime>1775201632</mtime>
+    <size>1590</size>
+    <md5>2f11d255173e6698912ffb7aaf5fbdcd</md5>
+    <crc32>1b64ba02</crc32>
+    <sha1>f77c2431161753632ddc34600679051c1f7387bd</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
