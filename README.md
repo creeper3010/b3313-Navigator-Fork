@@ -19,7 +19,7 @@ This repository is an updated and repaired continuation of the original B3313 na
 * **The Archive Source:** The original source script was preserved and can be referenced via the historical backup hosted on the Internet Archive:  
   👉 [Internet Archive - B3313 Navigator Item Record](https://archive.org/details/b3313-navigator)
 * **Wiki Reference:** The script was historically recognized and linked directly under the official wiki's **Enhance Your Gameplay** section:  
-  👉 [Official B3313 Wiki - Enhance Your Gameplay](https://miraheze.org)
+  👉 [Official B3313 Wiki - Enhance Your Gameplay](https://b3313official.miraheze.org/wiki/B3313)
 
 * **What's New in this Version:** 
   * Fixed a fundamental `dijkstar` math layout routing error that previously resulted in a permanent "Unable to find path".
