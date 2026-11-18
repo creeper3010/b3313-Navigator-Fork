@@ -20,7 +20,7 @@ def main():
         graph = get_graph()
         print(f"Loaded database map successfully with {len(graph.edges())} connections!")
     else:
-        print("No map detected. Generating one now from https://wiki.b3313.org/wiki/List_of_Areas")
+        print("No map detected. Generating one now from https://b3313official.miraheze.org/wiki/List_of_Areas")
         graph = make_graph()
         save_graph(graph)
 
@@ -151,7 +151,7 @@ def make_graph():
         sess.headers.update({'User-Agent': 'B3313 Mapper'})
 
         print("Connecting to layout index page...")
-        r1 = sess.get("https://wiki.b3313.org/wiki/List_of_Areas")
+        r1 = sess.get("https://b3313official.miraheze.org/wiki/List_of_Areas")
         tablesoup = BeautifulSoup(r1.content, 'html.parser')
 
         content_div = tablesoup.find("div", class_="mw-parser-output")
@@ -202,7 +202,7 @@ def make_graph():
             if href_path.startswith("http"):
                 stage_url = href_path
             else:
-                stage_url = f"https://wiki.b3313.org{href_path}"
+                stage_url = f"https://b3313official.miraheze.org{href_path}"
 
             try:
                 time.sleep(0.04)
